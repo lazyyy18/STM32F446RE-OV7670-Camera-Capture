@@ -46,7 +46,7 @@ After the camera is initialized, the OV7670 outputs image data to the STM32. The
 5. Transmit image data to the PC through UART
 6. Display the captured image on the PC side
 
-#Example
+## Example
 <img width="160" height="120" alt="ov7670_frame_rgb565_normal" src="https://github.com/user-attachments/assets/e4b6805a-c592-4664-a401-60658520669b" />
 
 
